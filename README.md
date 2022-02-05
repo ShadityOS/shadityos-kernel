@@ -7,9 +7,6 @@ This directory is for ShadityOS Kernel Development at the moment though, the ker
 - [ ] Decide on merge version
 - [ ] Merge to ShadityOS
 
-Linux kernel
-============
-
 There are several guides for kernel developers and users. These guides can
 be rendered in a number of formats, like HTML and PDF. Please read
 Documentation/admin-guide/README.rst first.
